@@ -1,4 +1,5 @@
 # WebScraping
+A webscraping tool that gathers information from various websites and compiles them together
 Directions for use<br />
 <br>open command prompt<br/>
 <br >python -m venv (virtual environment name)<br />
