@@ -1,6 +1,6 @@
 # WebScraping
-Directions for use
-Open Command Prompt
-python -m venv *name of virtual environment
-pip install selenium (if you have not got it installed)
-run python file
+Directions for use<br />
+<br>open command prompt<br/>
+<br >python -m venv (virtual environment name)<br />
+<br >pip install selenium (if not installed)<br />
+<br >run python file<br />
