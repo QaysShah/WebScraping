@@ -2,7 +2,7 @@ from selenium import webdriver
 
 Word = input('Insert Word: ')
 
-url = 'https://www.howmanysyllables.com/syllables/{0}'.format(Word)
+url = 'https://(website)/{0}'.format(Word)
 browser = webdriver.Chrome()
 browser.get(url)
 
